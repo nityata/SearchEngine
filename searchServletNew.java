@@ -47,7 +47,7 @@ import org.apache.lucene.util.Version;
 
 /**
  *
- * @author aashray
+ * @author nityata
  */
 @WebServlet(urlPatterns = {"/searchServletNew"})
 public class searchServletNew extends HttpServlet {
