@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : Mar 13, 2013, 2:31:14 PM
-    Author     : aashray
+    Author     : Nityata
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
